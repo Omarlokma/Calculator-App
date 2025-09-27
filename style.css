@@ -6,7 +6,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 0px;
-    overflow:hidden;
+    overflow-x:hidden;
 }
 #calc-container {
     display: flex;
