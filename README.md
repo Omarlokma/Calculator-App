@@ -15,7 +15,10 @@ It performs basic math operations and has a clean, modern interface.
 - Minimal responsive design with hover effects
 
 ---
+## Try Now
+[Click Here](https://omarlokma.github.io/Calculator-App/)
 
+---
 ## 🔧 Technologies
 - HTML – Page structure
 - CSS – Styling and layout (gradient background, buttons)
@@ -23,3 +26,4 @@ It performs basic math operations and has a clean, modern interface.
 - [Math.js] – For evaluating math expressions
 
 ---
+
